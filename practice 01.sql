@@ -35,3 +35,8 @@ alter table student
 add column try int ;
 alter table student 
 drop column try ;
+
+alter table student 
+add column try int ;
+alter table student 
+drop column try ;
