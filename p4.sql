@@ -17,7 +17,7 @@ INSERT INTO Employee (E_ID, E_Name, Gender, Salary, Manager_ID, Dept_ID)
 VALUES
 (1, 'A', 'M', 8000, NULL, 101),
 (2, 'B', 'M', 5000, 1, 101),
-(3, 'C', 'F', 2000, 1, 101),
+(3, 'C', 'F', 2000, 1, 10199),
 (4, 'D', 'F', 2000, 2, 1024),
 (5, 'E', 'M', 4000, 2, 102),
 (6, 'F', 'M', 2000, 1, 103),
